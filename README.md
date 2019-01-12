@@ -1,4 +1,4 @@
-# Como-alterar-o-format-de-data-para-pt-br-no-sequelize-How-to-change-date-format-in-sequelize-ORM
+# Carregando models em sequelize
 Em app/models/index.js está o mapeamento de inclusão dos models
 Em app/repositories/category-repository.js temos a chamada:
 const Project = require("../models").category;
